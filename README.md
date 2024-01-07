@@ -1,5 +1,6 @@
 # solana-sniper-bot
 tags: solana sniper bot , solana dex sniper,solana token sniper
+![image](https://github.com/Rezonanse/solana-sniper-bot/assets/29544689/3101653c-b663-4d5e-aee7-4d1ee04fe066)
 
 <p align="center">
   <a href="https://www.npmjs.com/package/hashlips_art_engine">
